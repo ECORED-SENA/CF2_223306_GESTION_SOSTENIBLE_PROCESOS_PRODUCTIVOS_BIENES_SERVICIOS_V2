@@ -2,14 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 15%
+    right: 70%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 31%
+    right: 0%
 
 @keyframes float1
   0%
@@ -17,3 +16,560 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translatex(20px)
+
+  100%
+    transform: translatex(0px)
+
+@keyframes float3
+  0%
+    transform: translatey(20px)
+
+  100%
+    transform: translatey(0px)
+
+.img-a
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto
+
+.mv
+  @media (max-width: $bp-min-sm)
+    width: auto
+    height: auto
+    margin-right: 4rem
+    top: 2rem
+
+.bloque-texto-g__texto
+  width: 70%
+  @media (max-width: $bp-max-md)
+    width: 100% !important
+.pmov
+  @media (max-width: $bp-max-md)
+    padding-right: 0rem !important
+
+.imagen-absolute
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(25%) translateY(-70%)
+  @media (max-width: $bp-max-lg)
+    position: inherit
+    transform: none
+
+.bg1
+  background-color: #583CB6
+  width: calc( 100% + 96px )
+  margin-left: -48px
+
+.imgs-flotantes
+  position: relative
+.imgs-flotantes img.img-flotante
+  animation: float2 3.5s ease-in-out infinite alternate
+  position: absolute
+  top: -20%
+  left: 20%
+  width: 450px
+  @media (max-width: $bp-min-sm)
+    width: 0px
+    left: 1%
+    display: none
+  @media (max-width: $bp-max-md)
+    top: -25%
+    left: 10%
+    width: 550px
+
+.imgs-flotantes1
+  position: relative
+.imgs-flotantes1 img.img-flotante1
+  animation: float2 3.5s ease-in-out infinite alternate
+  position: absolute
+  top: -12%
+  left: 30%
+  width: 470px
+  @media (max-width: $bp-min-sm)
+    width: 0px
+    left: 1%
+    display: none
+
+.imgs-flotantes2
+  position: relative
+.imgs-flotantes2 img.img-flotante2
+  animation: float2 3.5s ease-in-out infinite alternate
+  position: absolute
+  top: -20px
+  left: -2%
+  width: 470px
+  @media (max-width: $bp-min-sm)
+    width: 0px
+    left: 1%
+    display: none
+
+.bg2
+  background-color: #583CB6
+  border-radius: 15px
+
+.bg3
+  background-color: #F0BD51
+  width: calc( 100% + 96px )
+  margin-left: -48px
+
+.imagen-absolute1
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(25%) translateY(-35%)
+  @media (max-width: $bp-max-lg)
+    position: inherit
+    transform: none
+
+.bg4
+  background-color: #FAEBCD
+
+.bg4:hover
+  background-color: #F0BD51
+  animation-name: card-up
+  animation-duration: 10000000000000000000s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+@keyframes card-up
+  0%
+    transform: translateY(-20px)
+
+  100%
+    transform: translateY(0px)
+
+.bgp
+  background-color: white
+  border-radius: 20px
+
+.bg5
+  background-color: #EF8B53
+
+.bg5:hover
+  background-color: #583CB6
+
+.bg6
+  background-color: #E2D9FF
+  width: 100%
+  height: 40%
+
+.bg7
+  background-color: #F0BD51
+  border-left: 18px solid white
+
+.bg8
+  background-color: #FAEBCD
+  border-radius: 0 10px 10px 0
+  display: flex
+  align-items: center
+
+.bgl7
+  border-left: 18px solid #FFF9ED
+
+.bg9
+  background-color: #E2D9FF
+
+.rad-top-left
+  border-radius: 0 90px 0 0
+
+.rad-top-right
+  border-radius: 100px 0 0 0
+
+.imgmov
+  @media (max-width: $bp-max-md)
+    background-color: white
+    margin-top: 3rem
+
+.slyder-100
+  .horizontal-scroll
+    align-items: normal !important
+
+.bg10
+  background-color: #FFF9ED
+  border-radius: 10px
+
+.bg11
+  background-color: #F0BD51
+  border-radius: 10px
+
+.imagen-absolute2
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(328%) translateY(20%)
+  @media (max-width: $bp-max-lg)
+    position: inherit
+    transform: none
+.up
+  z-index: 2
+
+.bg12
+  background-color: #FFF9ED
+  width: calc( 100% + 96px )
+  margin-left: -48px
+
+.tarjeta.color-acento-botones
+  background-color: #F6F6F6
+  *
+    color: $color-sistema-texto
+
+.imagen-absolute3
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(25%) translateY(-50%)
+  @media (max-width: $bp-max-lg)
+    position: inherit
+    transform: none
+
+.bg13
+  background-color: #BCA9F7
+  border-radius: 10px
+.bg14
+  background-color: #FAEBCD
+  border-radius: 10px
+
+.imagen-absolute4
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(4%) translateY(-20%)
+  @media (max-width: $bp-max-lg)
+    position: inherit
+    transform: none
+
+.bg15
+  background-color: #E2D9FF
+  width: calc( 100% + 96px )
+  margin-left: -48px
+
+.bg16
+  background-color: #FAEBCD
+  width: calc( 100% + 96px )
+  margin-left: -48px
+
+.tpurple
+  border-top: 0px
+
+  thead
+    border-top: 0px
+    tr
+      background-color: $color-acento-contenido
+      color: $white
+  tbody
+    tr:nth-child(odd)
+      background-color: #F6F6F6
+    tr
+      td:first-child
+        font-weight: bold
+
+.bg17
+  background-color: #BCA9F7
+  border-radius: 0 20px 20px 0
+  @media (max-width: $bp-max-sm)
+    border-radius: 20px
+
+.bg18
+  background-color: #FAEBCD
+  border-radius: 0 20px 20px 0
+  @media (max-width: $bp-max-sm)
+    border-radius: 20px
+
+.mov
+  @media (max-width: $bp-max-sm)
+    padding-left: 0px !important
+
+.bleft
+  border-left: 15px solid white
+  @media (max-width: $bp-max-md)
+    border-left: 0px solid
+
+.imagen-absolute5
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(4%) translateY(-35%)
+  @media (max-width: $bp-max-lg)
+    position: inherit
+    transform: none
+
+.imagen-absolute6
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(328%) translateY(10%)
+  @media (max-width: $bp-max-lg)
+    position: inherit
+    transform: none
+
+.bg19
+  background-color: #F7B174
+  border-radius: 20px
+
+.bg20
+  background-color: #FAEBCD
+  border-radius: 20px
+
+.bg21
+  background-color: #FAEBCD
+  border-radius: 0 0 10px 10px
+  margin-top: -2rem
+.bg21:hover
+  background-color: #F0BD51
+
+.h
+  height: 35%
+
+.color-fondo-text
+  position: relative
+  &:before
+    content: ''
+    display: block
+    position: absolute
+    top: 0
+    bottom: 50%
+    left: 80%
+    right: 0
+  &__texto
+    position: relative
+    *
+      display: inline
+
+  &.bg-color
+    &:before
+      background-color: #FBF4F0
+
+.bg22
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario, .titulo-sexto.color-acento-contenido
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 100%
+    background-color: #FFF9ED
+
+.brad-lef
+  border-radius: 0 20px 20px 0
+
+.bg23
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 100%
+    background-color: #F6F4FF
+
+.tabs-c__content-item
+  background-color: #DBFFEC
+  border-radius: 20px
+.tabs-c
+  border-bottom: 0px solid
+
+.tabs-c__tab
+  border: 2px solid #449C6E
+  margin-left: 1rem
+  margin-right: 1rem
+  border-radius: 20px
+  margin-bottom: 1rem
+  @media (max-width: $bp-max-md)
+    width: 40%
+
+.tabs-c__tab--active, .tabs-c__tab--active:hover
+  background-color: #449C6E
+  margin-left: 1rem
+  margin-right: 1rem
+  border-radius: 20px
+
+  color: white
+  font-weight: bold
+
+.tabs-c__tab--active::before
+  border-left: 20px solid transparent
+  border-right: 20px solid transparent
+  border-top: 20px solid
+
+.tabs-c__tab::after
+  background-color: #449C6E
+  width: 0px
+
+.bg24
+  background-color: #583CB6
+  *
+    color: white
+
+.bg25
+  background-color: #EF8B53
+  display: flex
+  align-items: center
+  justify-content: center
+
+.bg26
+  background-color: #E2D9FF
+  border-radius: 0 10px 10px 0
+  display: flex
+  align-items: center
+
+.crd
+  width: 100%
+  position: relative
+
+  &--100
+    height: 100%
+
+.acordion
+  .tarjeta.bg27
+    background-color: #F2F2F2
+  &__titulo
+    color: white !important
+.tarjeta.bg27.acordion__activo
+  background-color: #E2D9FF !important
+
+.imagen-absolute7
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(4%) translateY(20%)
+  @media (max-width: $bp-max-lg)
+    position: inherit
+    transform: none
+
+.header-arrow
+  background: #FAEBCD
+  position: relative
+  padding: 0
+  border-radius: 10px
+  &--xs
+    padding: 0
+    height: 8px
+
+.header-arrow:before
+  content: ''
+  -webkit-transition: all .3s ease
+  transition: all .3s ease
+  border-style: solid
+  border-width: 25px 25px 0px 25px
+  border-color: #FAEBCD transparent transparent transparent
+  position: absolute
+  left: 50%
+  transform: translateX(-50%)
+  bottom: -18px
+  margin-top: 0px
+  z-index: 20
+
+.bgv
+  background-color: #F0BD51
+
+  *
+    color: $color-sistema-texto
+    font-weight: bold
+    padding-left: 0.1rem !important
+
+.imagen-absolute8
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(328%) translateY(30%)
+  @media (max-width: $bp-max-lg)
+    position: inherit
+    transform: none
+
+.tabs-a__tab
+  background-color: #E8E8E8
+.tarjeta.color-acento-contenido--borde
+  border: 4px solid #E3D8FF
+
+.bg28
+  background-color: #EF8B53
+
+.tarjeta-flip.color-primario .tarjeta-flip__contenido
+  background-color: #F0BD51
+
+.tarjeta-flip.color-primario .tarjeta-flip__img
+  background-color: #FAEBCD
+
+.color-fondo-text1
+  position: relative
+  &:before
+    content: ''
+    display: block
+    position: absolute
+    top: 0
+    bottom: 40%
+    left: 0
+    right: 75%
+  &__texto
+    position: relative
+    *
+      display: inline
+
+  &.bg-color
+    &:before
+      background-color: #F0ECFF
+
+.cardt
+  height: 380px !important
+
+.table1
+  width: auto !important
+
+.imagen-absolute9
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(4%) translateY(0%)
+  @media (max-width: $bp-max-lg)
+    position: inherit
+    transform: none
+
+.imagen-absolute10
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(4%) translateY(5%)
+  @media (max-width: $bp-max-lg)
+    position: inherit
+    transform: none
+
+.imagen-absolute11
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(25%) translateY(-15%)
+  @media (max-width: $bp-max-lg)
+    position: inherit
+    transform: none
+
+.tabs-b__tab
+  filter: grayscale(100%)
+
+.tabs-b.color-acento-contenido .tabs-b__tab--active
+  filter: grayscale(0) !important
+
+.img-w
+  width: 35% !important
+  top: 5% !important
+  @media (max-width: $bp-max-md)
+    width: 25% !important
+  @media (max-width: $bp-max-sm)
+    width: 35% !important
+  @media (max-width: 768px)
+    width: 25% !important
+
+@mixin name
+  *

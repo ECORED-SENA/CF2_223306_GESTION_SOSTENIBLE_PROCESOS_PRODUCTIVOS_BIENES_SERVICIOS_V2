@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Plan de promotoría y medios de divulgación',
+    descripcionCurso:
+      'Este componente se centra en identificar los conceptos y definiciones de la promotoría, sus principales características y metodologías, estableciendo las estrategias y responsabilidades propias y pertinentes. Asimismo, conceptos de acciones de mejora, toma de decisiones e indicadores de verificación de la información.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -31,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: '',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -45,13 +46,19 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: '',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: '',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: '',
         desarrolloContenidos: true,
       },
     ],
