@@ -110,7 +110,7 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img51.png', alt='')
           .bg21.p-3.pt-5.h
             h4 Liderar
-            p.mb-0 Levar a cabo con propiedad el liderazgo.                             
+            p.mb-0 Llevar a cabo con propiedad el liderazgo.                             
         .col-lg-4.my-4 
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img52.png', alt='')
           .bg21.p-3.pt-5.h
@@ -153,19 +153,19 @@
           .col-lg-6.my-3 
             h4.mb-3(data-aos="fade-down") En lo relacionado con el moderador, este:
             ul.lista-ul--color(data-aos="fade-down")
-              li 
+              li.d-flex 
                 i.fas.fa-atom
                 p.mb-0 Es el líder de la sala que se encarga de hacer que la reunión sea un éxito.
-              li 
+              li.d-flex 
                 i.fas.fa-atom
                 p.mb-0 Puede tomar medidas necesarias para mantener el orden.
-              li 
+              li.d-flex 
                 i.fas.fa-atom
                 p.mb-0 Su palabra y criterio serán orientadores y se tomarán como reglas o directrices (que deben ser claras).
-              li 
+              li.d-flex 
                 i.fas.fa-atom
                 p.mb-0 Los lineamientos ofrecidos por el líder deben ser conocidos por cada uno de los participantes de la reunión.
-              li 
+              li.d-flex 
                 i.fas.fa-atom
                 p.mb-0 En caso de romperse alguna regla, será el moderador quien actúe y promueva el cumplimiento mediante llamados de atención justos y apropiados.                 
           .col-lg-6 
@@ -193,7 +193,7 @@
               .col-lg-10
                 div(style='background-color: #FAEBCD').p-3.h-100.brad-lef
                   h4.mb-0 Planear
-                  p.mb-0 Planear y controlar el desarrollo de la reunión
+                  p.mb-0 Planear y controlar el desarrollo de la reunión.
             .row.justify-content-center.mb-3.g-0
               .col-lg-2
                 div(style='background-color: #F0BD51').p-2.h-100.d-flex.align-items-center
@@ -259,7 +259,7 @@
               .col-10
                 div(style='background-color: #FAEBCD').p-3.h-100.brad-lef
                   h4.mb-0 Armonizar
-                  p.mb-0 Suavizar las disputar (en caso necesario, mediar entre las partes). 
+                  p.mb-0 Suavizar las disputas (en caso necesario, mediar entre las partes). 
             .row.justify-content-center.mb-3.g-0
               .col-2
                 div(style='background-color: #F0BD51').p-2.h-100.d-flex.align-items-center
@@ -286,45 +286,45 @@
         .row.justify-content-center.align-items-center.py-5           
           .col-lg-3
             ol.lista-ol--cuadro.lista-ol--separador
-              li 
+              li.d-flex 
                 .lista-ol--cuadro__vineta
                   span a.
                 p.mb-0 #[i Chat] de la empresa.
-              li 
+              li.d-flex 
                 .lista-ol--cuadro__vineta
                   span b.
                 p.mb-0 Boletines.
-              li 
+              li.d-flex 
                 .lista-ol--cuadro__vineta
                   span c.
                 p.mb-0 Periódicos murales.
-              li 
+              li.d-flex 
                 .lista-ol--cuadro__vineta
                   span d.
                 p.mb-0 Conferencias.
-              li 
+              li.d-flex 
                 .lista-ol--cuadro__vineta
                   span e.
                 p.mb-0 Talleres.           
           .col-lg-3
             ol.lista-ol--cuadro.lista-ol--separador
-              li 
+              li.d-flex 
                 .lista-ol--cuadro__vineta
                   span f.
                 p.mb-0 Visitas técnicas.
-              li 
+              li.d-flex 
                 .lista-ol--cuadro__vineta
                   span g.
                 p.mb-0 Entretenimientos.
-              li 
+              li.d-flex 
                 .lista-ol--cuadro__vineta
                   span h.
                 p.mb-0 Actividades colectivas.
-              li 
+              li.d-flex 
                 .lista-ol--cuadro__vineta
                   span i.
                 p.mb-0 Acceso a bibliografía actualizada.
-              li 
+              li.d-flex 
                 .lista-ol--cuadro__vineta
                   span j.
                 p.mb-0 Rotación de puesto.            
@@ -371,7 +371,7 @@
                 .p-4.ps-0
                   p(data-aos="fade-down").mb-0 El cronograma de trabajo representa las labores que debe cumplir cada uno, clasificándolas en fases que cuentan con su respectiva fecha de ejecución. Es así como se convierte en herramienta de mucha utilidad para el desarrollo de proyectos.
   
-      p(data-aos="fade-down").mb-5 En el siguiente video se muestran las generalidades y aspectos clave que debe conocer sobre los cronogramas de trabajo; #[b visualícelo con atención y procure llevar registro de lo más destacado en su libreta personal de apuntes.]
+      p(data-aos="fade-down").mb-5 En el siguiente video se muestran las generalidades y aspectos clave que se deben conocer sobre los cronogramas de trabajo.
   
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-12(data-aos="fade-left")     
@@ -384,7 +384,7 @@
         h2 2.4 Conceptos, tipos y características 
   
       p(data-aos="fade-down") Cuando se habla de un cronograma de trabajo se hace referencia a una herramienta para diseñar calendarios de trabajo, el cual permite obtener información de manera ordenada, donde se vean las funciones de cada uno y el tiempo que tiene para su desarrollo. 
-      p(data-aos="fade-down").mb-5 En la actualidad existen varios tipos de cronograma con características particulares. Entre los más comunes y usados se pueden mencionar: 
+      p(data-aos="fade-down").mb-5 En la actualidad, existen varios tipos de cronograma con características particulares. Entre los más comunes y usados se pueden mencionar: 
       .bg22
         .row.justify-content-center.align-items-stretch       
           .col-lg-3.col-md-6.col-sm-6.my-3
@@ -496,7 +496,7 @@
           .col-7.bg26.px-0(data-aos="fade-left")
             .p-2
               p.ps-3(data-aos="fade-down").mb-0 Deberá ser formalizado y divulgado.
-      h5(data-aos="fade-down").mb-5 En relación con los conceptos, tipos y características de los cronogramas de trabajo tenga en cuenta las siguientes generalidades:
+      h5(data-aos="fade-down").mb-5 En relación con los conceptos, tipos y características de los cronogramas de trabajo se debe tener en cuenta las siguientes generalidades:
   
       AcordionA(tipo="a" clase-tarjeta="tarjeta bg27")(data-aos="fade-right")
         .row.justify-content-center.align-items-start(titulo="Determinación de los elementos")

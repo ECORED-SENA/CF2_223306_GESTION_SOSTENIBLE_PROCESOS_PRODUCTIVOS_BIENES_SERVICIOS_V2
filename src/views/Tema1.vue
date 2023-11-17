@@ -7,7 +7,7 @@
           span 1
         h1 Promotoría y medios de comunicación
         
-      p(data-aos="fade-down").mb-5 La promotoría hace referencia a las actividades diseñadas para dar respuesta a las diferentes necesidades que se tienen en el punto de venta. Es fundamental revisar toda la cadena del producto hasta, incluso, su llegada al consumidor final; esto implica mayor difusión del producto mediante la publicidad, las actividades de #[b exhibición y la muestra] en el punto de venta y en los diferentes establecimientos. 
+      p(data-aos="fade-down").mb-5 La promotoría hace referencia a las actividades diseñadas para dar respuesta a las diferentes necesidades que se tienen en el punto de venta. Es fundamental revisar toda la cadena del producto hasta, incluso, su llegada al consumidor final; esto implica mayor difusión del producto mediante la #[b publicidad], las actividades de #[b exhibición] y la #[b muestra] en el punto de venta y en los diferentes establecimientos. 
   
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-10(data-aos="zoom-in")
@@ -36,7 +36,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-6 
               h4 Promotoría, acción programada
-              p Debe ser entendida como ocupaciones diseñadas para ofrecer resoluciones al punto de venta. Tanto para exhibir los productos como para crear las maneras de exhibición que definen las cadenas comerciales; sin embargo, para producir el fomento de las ventas.   
+              p Debe ser entendida como ocupaciones diseñadas para ofrecer resoluciones al punto de venta, tanto para exhibir los productos como para crear las maneras de exhibición, que definen las cadenas comerciales, contribuyendo así al fomento de las ventas.
             .col-lg-4
               img.img-a.img-t(src='@/assets/curso/temas/img8.png', alt='')  
         .py-4.py-md-5(titulo="Visión de mercado" :icono="require('@/assets/curso/temas/img5.svg')")
@@ -50,14 +50,14 @@
           .row.justify-content-center.align-items-center
             .col-lg-6 
               h4 Canales comunicativos
-              p Los medios de comunicación son herramientas que se utilizan para informar y comunicar a la sociedad sobre algún hecho o acontecimiento que está pasando o haya pasado; por medio de canales comunicativos se favorecerá el intercambio de información permitiendo su desarrollo. Evento que aplica a las ventas y a la promoción de las mismas.   
+              p Los medios de comunicación son herramientas que se utilizan para informar y comunicar a la sociedad sobre algún hecho o acontecimiento que está pasando o haya pasado. Es por ello que el intercambio de información, a través de estos, permite su desarrollo y aplicabilidad en las ventas y promociones.  
             .col-lg-4
               img.img-a.img-t(src='@/assets/curso/temas/img10.png', alt='') 
         .py-4.py-md-5(titulo="Proceso comunicativo" :icono="require('@/assets/curso/temas/img7.svg')")
           .row.justify-content-center.align-items-center
             .col-lg-6 
               h4 Proceso comunicativo
-              p Se debe conocer claramente el concepto de la comunicación, proceso donde se establece un enlace entre un emisor y receptor, entregando un mensaje definido. La comunicación permite que las personas puedan relacionarse y dar a conocer sus pensamientos y opiniones con respeto a ciertos temas de interés. Este evento aplica también a la comercialización y venta de productos, bienes y servicios.   
+              p Se debe conocer claramente el concepto de la comunicación, proceso donde se establece un enlace entre un emisor y receptor, entregando un mensaje definido. La comunicación permite que las personas puedan relacionarse y dar a conocer sus pensamientos y opiniones con respecto a ciertos temas de interés. Este evento aplica también a la comercialización y venta de productos, bienes y servicios.   
             .col-lg-4
               img.img-a.img-t(src='@/assets/curso/temas/img11.png', alt='') 
               
@@ -82,8 +82,7 @@
                 .imagen-absolute1
                   img(data-aos="zoom-in")(src='@/assets/curso/temas/img3.svg', alt='')
               .col-lg-10
-                p(data-aos="fade-down").mb-0.p-3 #[b ¡Atención!] Las características de un promotor tienen que ver con el perfil del promotor, ya que el perfil del promotor habla por sí solo, demostrando qué cualidades son las que tiene el promotor, las cuales lo hacen ser diferente a los demás, destacándolo en su puesto por su buen compromiso con la empresa.   
-      h5(data-aos="fade-down").mb-4 Estas son algunas de las características más destacadas con las que debe contar un buen promotor:
+                p(data-aos="fade-down").mb-0.p-3 #[b ¡Atención!] Las características de un promotor tienen que ver con su perfil, demostrando qué cualidades tiene que lo hacen ser diferente a los demás y lo destaca en su puesto de trabajo por su buen compromiso con la empresa.
       .row.justify-content-center.align-items-stretch     
         .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-right")
           .bg4.h-100.p-3
@@ -95,7 +94,7 @@
           .bg4.h-100.p-3
             img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/img14.png', alt='')
             .bgp.mb-3.mx-3.p-2
-              h5(data-aos="fade-down").mb-0.text-center persuasión
+              h5(data-aos="fade-down").mb-0.text-center Persuasión
             p(data-aos="fade-down").mb-0 Debe tener una gran capacidad para comunicarse y negociar.
         .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-right")
           .bg4.h-100.p-3
@@ -182,7 +181,7 @@
         .col-lg-4.bg9.p-0.rad-top-left.imgmov
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img26.png', alt='') 
   
-      p(data-aos="fade-down").mb-5 Para la selección de una metodología adecuada y una forma comunicativa oportuna el promotor deberá tener en cuenta:
+      p(data-aos="fade-down").mb-5 Para la selección de una metodología adecuada y una forma comunicativa oportuna, el promotor deberá tener en cuenta:
   
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-right")   
         .tarjeta-avatar
@@ -206,7 +205,7 @@
           div.bg10.p-5.h-100
             h4.pt-5.mb-0.text-center ¿Con qué inversión?
   
-      p(data-aos="fade-down").mb-5 Observe con atención el siguiente video, tome nota de las generalidades y aspectos clave que sobre la comunicación en procesos de promotoría se detallan:  
+      p(data-aos="fade-down").mb-5 A continuación se presentan las generalidades y aspectos clave sobe la comunicación en procesos de promotoría. 
   
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-12(data-aos="fade-left")     
@@ -294,7 +293,7 @@
             div.bg13.p-5.h-100
               .titutlo.rounded-pill.d-inline-block.p-3.bg-white.mt-5.d-flex.justify-content-center.mb-3
                 h4.mb-0.text-center Diseñar mecanismos de efectividad
-              p Diseñar estrategias, siendo siempre proactivo, buscando nuevas oportunidades de crecimiento, dar a conocer no solo el producto sino las bondades de la marca.   
+              p Diseñar estrategias, siendo siempre proactivo, buscando nuevas oportunidades de crecimiento y dando a conocer no solo el producto sino las bondades de la marca.   
           .tarjeta-avatar
             img(src='@/assets/curso/temas/img36.svg' alt='AvatarTop')
             div.bg14.p-5.h-100
@@ -318,25 +317,25 @@
           .col-lg-4.my-3 
             h4.mb-3(data-aos="fade-down") Algunos tipos de programa muy comunes son:
             ul.lista-ul--color(data-aos="fade-down")
-              li 
+              li.d-flex 
                 i.fas.fa-atom
                 p.mb-0 Promotores de ventas.
-              li 
+              li.d-flex 
                 i.fas.fa-atom
                 p.mb-0 Promotores de un proyecto.
-              li 
+              li.d-flex 
                 i.fas.fa-atom
                 p.mb-0 Promotores de viajes.
-              li 
+              li.d-flex 
                 i.fas.fa-atom
                 p.mb-0 Promotores comunitarios.
-              li 
+              li.d-flex 
                 i.fas.fa-atom
                 p.mb-0 Promotor social.
-              li 
+              li.d-flex 
                 i.fas.fa-atom
                 p.mb-0 Promotor de la salud y la educación.
-              li 
+              li.d-flex 
                 i.fas.fa-atom
                 p.mb-0 Promotor inmobiliario.                                 
           .col-lg-6 
@@ -350,8 +349,8 @@
                 .imagen-absolute1
                   img(data-aos="zoom-in")(src='@/assets/curso/temas/img39.svg', alt='')
               .col-lg-10
-                p(data-aos="fade-down").mb-0.p-3 La divulgación nace de la necesidad de dar a conocer el producto, tarea en la cual los medios de comunicación aportan en gran medida. Una buena divulgación favorece la eficacia en el cumplimiento de objetivo de ventas y de posicionamiento de los productos y las marcas. 
-      p(data-aos="fade-down").mb-5 Analice con atención la siguiente tabla, en la cual se detallan los tipos de divulgación más usados y comunes:
+                p(data-aos="fade-down").mb-0.p-3 La divulgación nace de la necesidad de dar a conocer el producto, tarea en la cual los medios de comunicación aportan en gran medida. Una buena divulgación favorece la eficacia en el cumplimiento del objetivo de ventas y del posicionamiento de los productos y las marcas. 
+      p(data-aos="fade-down").mb-5 En la siguiente tabla se detallan los tipos de divulgación más usados y comunes:
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
         h5 Tabla 1 
         span Tipos de divulgación
@@ -383,7 +382,7 @@
   
       .row.justify-content-between.align-items-center.position-relative.mb-5
         .col-lg-11.up
-          p(data-aos="fade-down").mb-0 En la aplicación del desarrollo de la promotoría se debe conocer claramente con qué presupuesto cuenta la empresa que desea realizar la promotoría del producto. Para el desarrollo del presupuesto se realiza una línea de base de costos que tendrá la promotoría en el tiempo estipulado, donde se permite conocer de una manera exacta qué presupuesto se debe tener para comenzar la aplicación de la promotoría.     
+          p(data-aos="fade-down").mb-0 En la aplicación del desarrollo de la promotoría, se debe conocer claramente con qué presupuesto cuenta la empresa que desea realizar la promotoría del producto. Para el desarrollo del presupuesto, se realiza una línea de base de costos que tendrá la promotoría en el tiempo estipulado, donde se permite conocer de una manera exacta qué presupuesto se debe tener para comenzar la aplicación de la promotoría.     
         .col-lg-1.col-5.mb-lg-0.mb-3.d-none.d-lg-block 
           .imagen-absolute2
             img(data-aos="zoom-in")(src='@/assets/curso/temas/img40.svg', alt='') 
@@ -406,7 +405,7 @@
               .bg18.p-2.h-100
                 .titutlo.rounded-pill.d-inline-block.p-3.bg-white.mt-3.d-flex.justify-content-center.mb-3.mx-5
                   h4.mb-0 Aplicación del presupuesto
-                p.p-3.mb-0 El presupuesto y su aplicación se basan en el plano grama que fue diseñado para el PDV y en saber qué productos son los que se encuentran en el punto de venta de la empresa. 
+                p.p-3.mb-0 El presupuesto y su aplicación se basan en el planograma que fue diseñado para el PDV y en saber qué productos son los que se encuentran en el punto de venta de la empresa. 
   </template>
 
 <script>

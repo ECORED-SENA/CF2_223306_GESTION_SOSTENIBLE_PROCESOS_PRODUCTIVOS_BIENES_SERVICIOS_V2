@@ -58,10 +58,9 @@
           tr
             th Título
             th Objetivo y función
-           
         tbody
           tr
-            td.text-bold.px-5 Recional
+            td.text-bold.px-5 Racional
             td Se revisan las diferentes fuentes o información recopilada, con el objetivo de analizar las diferentes alternativas de forma racional. 
           tr
             td.text-bold.px-5 Intuitivo 
@@ -102,34 +101,34 @@
         .col-lg-7
           p En este análisis se busca identificar fortalezas, oportunidades, debilidades y amenazas de la empresa. Esta herramienta busca analizar de manera profunda cada uno de los factores de la empresa, permitiendo así una toma de decisión más certera. 
         .col-lg-5
-          img.img-a.img-t(src='@/assets/curso/temas/img118.png', alt='')   
+          img.img-a.img-t(src='@/assets/curso/temas/img118.png', alt='Esquema de la matriz DOFA: debilidades, oportunidades, fortalezas y amenazas.')   
       .row.justify-content-center.align-items-start(titulo="Matriz de decisión")
         .col-lg-7
           p Es una herramienta gráfica que permite tomar una decisión radical, evaluando y escogiendo la mejor opción entre diferentes alternativas, teniendo en cuenta los factores de cada alternativa para la decisión final. 
         .col-lg-5
-          img.img-a.img-t(src='@/assets/curso/temas/img119.png', alt='')
+          img.img-a.img-t(src='@/assets/curso/temas/img119.png', alt='Ejemplo de esquema de una matriz de decisión en la que se analizan una serie de ideas con base en un listado de criterios.')
       .row.justify-content-center.align-items-start(titulo="Árbol de decisión")
         .col-lg-7
           p Es el diseño de un mapa donde se muestran ciertos resultados de las posibles decisiones que se pueden tomar, permitiendo comparar entre varias acciones, sus probabilidades y beneficios. 
         .col-lg-5
-          img.img-a.img-t(src='@/assets/curso/temas/img120.png', alt='')
+          img.img-a.img-t(src='@/assets/curso/temas/img120.png', alt='Ejemplo de un esquema de árbol de decisión en el que se muestran como distintos elementos van ramificándose de acuerdo a sus resultados.')
       .row.justify-content-center.align-items-start(titulo="Análisis de Pareto")
         .col-lg-7
           p Es un diagrama que permite evaluar el nivel de prioridad que se le debe dar a las acciones a tomar, para llegar al objetivo final. Se trata de una técnica que clasifica de mayor a menor importancia la información. Lo hace de manera gráfica para favorecer una fácil comprensión. 
         .col-lg-5
-          img.img-a.img-t(src='@/assets/curso/temas/img121.png', alt='')
+          img.img-a.img-t(src='@/assets/curso/temas/img121.png', alt='Ejemplo de un análisis de Pareto a través de una representación gráfica de barras.')
       .row.justify-content-center.align-items-start(titulo="<i>Workflows</i>")
         .col-lg-7
           p Se trata de un conjunto de ideas organizadas en forma de flujo de diagrama; las mismas están enfocadas hacia el objetivo principal, llevando cada día, un orden que permita construir el camino a desarrollar y se haga seguimiento a la información obtenida para la creación de nuevas tareas. 
         .col-lg-5
-          img.img-a.img-t(src='@/assets/curso/temas/img122.png', alt='')
+          img.img-a.img-t(src='@/assets/curso/temas/img122.png', alt='Ejemplo de representación de un diagrama de trabajo en el que se evidencie el camino a seguir.')
       .row.justify-content-center.align-items-start(titulo="Indicadores")
         .col-lg-7
           p Un indicador es aquel que permite dar un veredicto final, permitiendo juzgar los resultados que se han obtenido sobre los objetivos desarrollados en el proyecto, detallando y midiendo los logros de cada uno de los objetivos. Los indicadores pueden ser cualitativos y cuantitativos. 
         .col-lg-5
-          img.img-a.img-t(src='@/assets/curso/temas/img123.png', alt='')
+          img.img-a.img-t(src='@/assets/curso/temas/img123.png', alt='Ejemplo de un gráfico de barras representando una serie de indicadores.')
 
-    p(data-aos="fade-down").mb-5 La siguiente tabla muestra cuatro formas específicas para la creación de indicadores. Visualice con atención la información que en ella se detalla y procure llevar registro de lo más destacado:
+    p(data-aos="fade-down").mb-5 La siguiente tabla muestra cuatro formas específicas para la creación de indicadores. 
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Tabla 5
       span Cuatro maneras para crear indicadores
@@ -162,33 +161,33 @@
           .row.justify-content-center.align-items-center.ps-5           
             .col-lg-6.my-3        
               ul.lista-ul--color(data-aos="fade-down")
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Indicador de productividad.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Indicador de eficiencia.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Indicador de eficacia.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Indicador de efectividad.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Indicador de calidad. 
             .col-lg-6.my-3        
               ul.lista-ul--color(data-aos="fade-down")
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Indicador de capacidad.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Indicador de ganancia.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Indicador de rentabilidad.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Indicador de valor. 
         .col-lg-6 
@@ -230,39 +229,39 @@
           .row.justify-content-center.align-items-start.ps-5           
             .col-lg-6.my-3        
               ul.lista-ul--color(data-aos="fade-down")
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Análisis de correlaciones.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Análisis de regresión.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Visualización de datos.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Análisis de escenarios.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 <i>Data mining</i>.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Análisis de sentimientos.
             .col-lg-6.my-3        
               ul.lista-ul--color(data-aos="fade-down")
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Análisis semántico de textos.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Análisis de patentes y literatura científica.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Simulación de Monte Carlo.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Programación y optimización matemática.
-                li 
+                li.d-flex 
                   i.fas.fa-atom
                   p.mb-0 Predicción matemática.
         .col-lg-6 
@@ -276,9 +275,8 @@
               .imagen-absolute11
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/img3.svg', alt='')
             .col-lg-10
-              p(data-aos="fade-down").mb-0.p-3 #[b ¡Atención!] Las técnicas de análisis dependen de la información que se tenga, por tanto, su recolección se debe realizar mediante mecanismos como observación, entrevistas, encuestas y otras estrategias básicas, todas ellas necesarias para tal fin de recopilarla.
+              p(data-aos="fade-down").mb-0.p-3 #[b ¡Atención!] Las técnicas de análisis dependen de la información que se tenga, por tanto, su recolección se debe realizar mediante mecanismos como observación, entrevistas, encuestas y otras estrategias básicas, todas ellas necesarias para tal fin de recopilarla. Una información recolectada y expresada gráficamente facilita su comprensión y su análisis. La misma, se clasifica en explicativa y descriptiva.
 
-    p(data-aos="fade-down").mb-0 Una información recolectada y expresada gráficamente facilita su comprensión y su análisis. La misma, se clasifica en explicativa y descriptiva.              
 </template>
 <script>
 export default {

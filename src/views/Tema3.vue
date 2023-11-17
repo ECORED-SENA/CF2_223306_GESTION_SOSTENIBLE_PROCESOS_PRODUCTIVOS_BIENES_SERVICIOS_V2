@@ -14,7 +14,7 @@
         .col-lg-11.up
           p(data-aos="fade-down") Juegan en las empresas un papel primordial en su funcionamiento, ya que orientan las actividades o estrategias del proceso, encaminadas a la calidad y a la excelencia. Se requiere comprender que, con el objetivo de mantener el posicionamiento y la calidad del producto, se deben revisar y mejorar continuamente los procedimientos, sistemas y actividades realizadas por la organización.
   
-          h5(data-aos="fade-down").mb-0 Analice la siguiente figura y tome nota de los 10 puntos clave del Sistema Kaizen en la excelencia de las operaciones de mejora continua en las empresas:  
+          h5(data-aos="fade-down").mb-0 En la siguiente figura se puede analizar el Sistema Kaizen en la excelencia de las operaciones de mejora continua en las empresas. 
   
       .bg22
         .pt-5
@@ -26,7 +26,7 @@
             .header-arrow.mb-4
               .p-3.pb-1
                 ol.lista-ol--cuadro.lista-ol--separador.mb-0
-                  li 
+                  li.d-flex 
                     .lista-ol--cuadro__vineta.bgv
                       span 01.
                     p.mb-0 Renunciar a las ideas fijas, rompiendo paradigmas actuales de las cosas.  
@@ -34,7 +34,7 @@
             .header-arrow.mb-4
               .p-3.pb-1
                 ol.lista-ol--cuadro.lista-ol--separador.mb-0
-                  li 
+                  li.d-flex 
                     .lista-ol--cuadro__vineta.bgv
                       span 02.
                     p.mb-0 En lugar de explicar lo que no se puede hacer, reflexionar sobre cómo hacerlo. 
@@ -42,7 +42,7 @@
             .header-arrow.mb-4
               .p-3.pb-1
                 ol.lista-ol--cuadro.lista-ol--separador.mb-0
-                  li 
+                  li.d-flex 
                     .lista-ol--cuadro__vineta.bgv
                       span 03.
                     p.mb-0 Proponer mejoras y realizarlas inmediatamente. 
@@ -50,7 +50,7 @@
             .header-arrow.mb-4
               .p-3.pb-1
                 ol.lista-ol--cuadro.lista-ol--separador.mb-0
-                  li 
+                  li.d-flex 
                     .lista-ol--cuadro__vineta.bgv
                       span 04.
                     p.mb-0 No buscar la perfección, ganar el 60% desde ahora. 
@@ -58,7 +58,7 @@
             .header-arrow.mb-4
               .p-3.pb-1
                 ol.lista-ol--cuadro.lista-ol--separador.mb-0
-                  li 
+                  li.d-flex 
                     .lista-ol--cuadro__vineta.bgv
                       span 05.
                     p.mb-0 Corregir un error inmediatamente. 
@@ -66,7 +66,7 @@
             .header-arrow.mb-4
               .p-3.pb-1
                 ol.lista-ol--cuadro.lista-ol--separador.mb-0
-                  li 
+                  li.d-flex 
                     .lista-ol--cuadro__vineta.bgv
                       span 06.
                     p.mb-0 Encontrar soluciones a las dificultades. 
@@ -74,7 +74,7 @@
             .header-arrow.mb-4
               .p-3.pb-1
                 ol.lista-ol--cuadro.lista-ol--separador.mb-0
-                  li 
+                  li.d-flex 
                     .lista-ol--cuadro__vineta.bgv
                       span 07.
                     p.mb-0 Buscar la causa real y plantear soluciones. 
@@ -82,7 +82,7 @@
             .header-arrow.mb-4
               .p-3.pb-1
                 ol.lista-ol--cuadro.lista-ol--separador.mb-0
-                  li 
+                  li.d-flex 
                     .lista-ol--cuadro__vineta.bgv
                       span 08.
                     p.mb-0 Consultar las ideas de diez personas en lugar de esperar. 
@@ -90,7 +90,7 @@
             .header-arrow.mb-4
               .p-3.pb-1
                 ol.lista-ol--cuadro.lista-ol--separador.mb-0
-                  li 
+                  li.d-flex 
                     .lista-ol--cuadro__vineta.bgv
                       span 09.
                     p.mb-0 Probar y después validar.  
@@ -98,7 +98,7 @@
             .header-arrow.mb-4
               .p-3.pb-1
                 ol.lista-ol--cuadro.lista-ol--separador.mb-0
-                  li 
+                  li.d-flex 
                     .lista-ol--cuadro__vineta.bgv
                       span 10.
                     p.mb-0 La mejora es infinita.    
@@ -124,7 +124,7 @@
                 img.img-a.img-t(src='@/assets/curso/temas/img96.svg' alt='AvatarTop')
               .tarjeta.tarjeta--azul.bg24
                 .p-4.ps-0
-                  p(data-aos="fade-down").mb-0 La valoración del efecto, el beneficio y la alineación de las acciones de mejora con el direccionamiento estratégico de la organización suele ser el componente más utilizado en el momento de priorizar las iniciativas de una mejoría. Las actividades de mejora están sustentadas en la formulación de objetivos y actividades, que deberían ser acotados en la era y factibles con las limitaciones de los recursos disponibles.  
+                  p(data-aos="fade-down").mb-0 La valoración del efecto, el beneficio y la alineación de las acciones de mejora con el direccionamiento estratégico de la organización, suele ser el componente más utilizado en el momento de priorizar las iniciativas. Las actividades de mejora están sustentadas en la formulación de objetivos y actividades, que deberían ser acotados en la era y factibles con las limitaciones de los recursos disponibles.  
   
       h5(data-aos="fade-down").mb-5 Sobre las acciones de mejora en las organizaciones o proyectos tenga en cuenta los siguientes aspectos clave: 
   
@@ -157,7 +157,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-8.my-3
               h4.mb-3 Clasificación y orden
-              p.mb-0 Las mejoras deberás ser iniciativas que se deben clasificar, otorgando un orden de prioridad acorde a los diversos criterios de interés para la organización, con componentes estratégicos como la visión y la misión.    
+              p.mb-0 Las mejoras deben ser iniciativas a clasificar, otorgando un orden de prioridad acorde a los diversos criterios de interés para la organización, con componentes estratégicos como la visión y la misión.    
             .col-lg-3.my-3
               img.img-a.img-t(src='@/assets/curso/temas/img102.png', alt='') 
   
@@ -165,7 +165,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-8.my-3
               h4.mb-3 Participación
-              p.mb-0 Cada miembro de la organización debe estar involucrado, de forma directa o indirecta, en las acciones de mejora; sin embargo, dependiendo del objetivo perseguido se define un equipo encargado de llevar a cabo el proyecto de mejora.    
+              p.mb-0 Cada miembro de la organización debe estar involucrado, de forma directa o indirecta, en las acciones de mejora; sin embargo, dependiendo del objetivo perseguido, se define un equipo encargado de llevar a cabo el proyecto de mejora.    
             .col-lg-3.my-3
               img.img-a.img-t(src='@/assets/curso/temas/img98.png', alt='') 
   
@@ -185,7 +185,7 @@
                 .imagen-absolute1
                   img(data-aos="zoom-in")(src='@/assets/curso/temas/img104.svg', alt='')
               .col-lg-10
-                p(data-aos="fade-down").mb-0.p-3 #[b ¡Recuerde!] El ciclo de mejora continua es de las herramientas más utilizadas por los de sistema de gestión, ayudando a las empresas a obtener mejoras en la productividad y en los precios de productos. La mejora continua tiene como objetivo el desarrollo de un compromiso con las metas de la empresa, buscando la forma de potenciar el proceso mismo.
+                p(data-aos="fade-down").mb-0.p-3 #[b ¡Recuerde!] El ciclo de mejora continua es de las herramientas más utilizadas por los sistemas de gestión, ayudando a las empresas a obtener mejoras en la productividad y en los precios de productos. La mejora continua tiene como objetivo el desarrollo de un compromiso con las metas de la empresa, buscando la forma de potenciar el proceso mismo.
   
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-10
@@ -209,7 +209,7 @@
           h4.mb-3 Verificar
           p Se mide el proceso que se lleva, observando qué desempeño tiene.              
   
-      h5(data-aos="fade-down").mb-5 En relación con el ciclo de mejora continua tenga presente la definición básica de cada uno de sus elementos, que son:
+      h5(data-aos="fade-down").mb-5 En relación con el ciclo de mejora continua, se debe tener presente la definición básica de cada uno de sus elementos, que son:
   
       .row.justify-content-center.mb-5(data-aos="zoom-in")
         .col-lg-3.col-md-6.col-sm-8.my-3
@@ -282,7 +282,7 @@
             .bloque-texto-g__texto.px-4.py-5
               p.mb-0.pe-5.pmov Las técnicas de mejora continua ayudan a encontrar los indicadores clave de cada proceso de la empresa, diseñar la estrategia, escoger los objetivos e identificar qué herramientas digitales serán útiles y finalmente, analizar las métricas y los resultados obtenidos continuamente. 
   
-      p(data-aos="fade-down").mb-5 En la siguiente tabla se muestran las técnicas más comunes y usadas en la actualidad para el fortalecimiento de la mejora continua en las organizaciones y proyectos; tome nota de lo más destacado:
+      p(data-aos="fade-down").mb-5 En la siguiente tabla se muestran las técnicas más comunes y usadas en la actualidad para el fortalecimiento de la mejora continua en las organizaciones y proyectos:
   
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
         h5 Tabla 3 
@@ -303,10 +303,10 @@
             tr
               td SMED     
               td Este sistema se utiliza para reducir los tiempos de preparación.    
-              td Para implementar esta técnica la empresa debe realizar un estudio de tiempos y movimientos en cada una de las actividades.
+              td Para implementar esta técnica, la empresa debe realizar un estudio de tiempos y movimientos en cada una de las actividades.
             tr
               td Estandarización                   
-              td Esta técnica es empleada mediante la aplicación de instrucciones escritas o gráficas que mejoren el método para hacer las cosas.                  
+              td Esta técnica es empleada mediante la aplicación de instrucciones escritas o gráficas, que mejoren el método para hacer las cosas.                  
               td Para una correcta estandarización se debe tener presente:<br><br>1. Describir simple y claramente los métodos de mejora.<br>2. Utilizar las mejores herramientas y técnicas.<br>3. Garantizar el cumplimiento.
    
             tr
@@ -325,10 +325,10 @@
             tr
               td Técnicas de calidad                   
               td Persigue la eliminación de defectos y garantizar la calidad.                  
-              td Entre estas técnicas se destacan: TQM (<i>Total Quality Management</i>), destacando entre todas ellas los chequeos de autocontrol, la matriz de autocalidad, Sigma, el análisis PDCA y la implantación de planes cero defectos. 
+              td Entre estas técnicas sobresalen: TQM (<i>Total Quality Management</i>), destacando entre todas ellas, los chequeos de autocontrol, la matriz de autocalidad, Sigma, el análisis PDCA y la implantación de planes cero defectos. 
             tr
               td Sistema de participación del personal (SPP)                   
-              td Grupos de trabajo que supervisan y mejoran el sistema Lean.                   
+              td Grupos de trabajo que supervisan y mejoran el sistema #[em Lean].                   
               td Mejora el relacionamiento y comunicación en los diferentes niveles de la empresa.<br>Genera la motivación del personal. 
   
             tr
