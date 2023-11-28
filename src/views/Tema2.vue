@@ -14,9 +14,9 @@
             .bloque-texto-g__img(
               :style="{'background-image':`url(${require('@/assets/curso/temas/img1.png')})`}"
             )
-              .imagen-superior.position-absolute.mv.px-4(style='bottom:0% ; left: 20%; z-index:2'): img(src='@/assets/curso/temas/img43.svg')
+              .imagen-superior.position-absolute.mv.px-4(style='bottom:0% ; left: 30%; z-index:2'): img(src='@/assets/curso/temas/img43.svg')
             .bloque-texto-g__texto.px-4.py-5
-              p.mb-0.pe-5.pmov Cada comercio cuenta con sus propios obstáculos y retos al salir al mercado. Si el equipo está concentrado, motivado, cada uno de los esfuerzos dará buenos resultados. Un buen equipo de trabajo tiene buena comunicación y objetivos claros de lo que se va hacer cumpliendo con lo que se le pide.
+              p.mb-0.pe-5.pmov Cada comercio cuenta con sus propios obstáculos y retos al salir al mercado. Si el equipo está concentrado, motivado, cada uno de los esfuerzos dará buenos resultados. Un buen equipo de trabajo tiene buena comunicación y objetivos claros de lo que se va a hacer cumpliendo con lo que se le pide.
   
       .row.justify-content-center.align-items-center.my-5           
         .col-lg-12.pt-5
@@ -26,7 +26,7 @@
                 .imagen-absolute5
                   img(data-aos="zoom-in")(src='@/assets/curso/temas/img3.svg', alt='')
               .col-lg-10
-                p(data-aos="fade-down").mb-0.p-3.text-white #[b ¡Importante!] El equipo de trabajo debe ser unido y estar dirigido por una persona líder que conozca la responsabilidad que tiene en el equipo. Quien asuma el liderazgo lleva la responsabilidad total de la promotoría, incluida la toma de decisiones importantes para el cumplimento del objetivo final de la promotoría.
+                p(data-aos="fade-down").mb-0.p-3.text-white #[b ¡Importante!] El equipo de trabajo debe ser unido y estar dirigido por una persona líder que conozca la responsabilidad que tiene en el equipo. Quien asuma el liderazgo lleva la responsabilidad total de la promotoría, incluida la toma de decisiones importantes para el cumplimiento del objetivo final de la promotoría.
                 
       Separador 
       #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -179,7 +179,7 @@
                 .imagen-absolute1
                   img(data-aos="zoom-in")(src='@/assets/curso/temas/img3.svg', alt='')
               .col-lg-10
-                p(data-aos="fade-down").mb-0.p-3 #[b ¡Atención!] El moderador es un administrador en la reunión, también encargado de la logística, así que si todo sale bien se le reconoce y si todo sale mal el moderador asume la responsabilidad; un moderador debe saber lidiar con los pensamientos y comportamientos de las personas dentro de una sala donde se procesan temas que pueden llevar al acuerdo o desacuerdo de los integrantes de un equipo.
+                p(data-aos="fade-down").mb-0.p-3 #[b ¡Atención!] El moderador es un administrador en la reunión, también encargado de la logística, así que si todo sale bien se le reconoce y si todo sale mal, el moderador asume la responsabilidad; un moderador debe saber lidiar con los pensamientos y comportamientos de las personas dentro de una sala donde se procesan temas que pueden llevar al acuerdo o desacuerdo de los integrantes de un equipo.
   
       p(data-aos="fade-down").mb-5 Para llevar a cabo un buen proceso de liderazgo y moderación de actividades, el líder puede aplicar alguna de las siguientes técnicas. En todos los casos, deberá evaluar la pertinencia de las mismas y seleccionar la que considere más adecuada: 
   
@@ -378,12 +378,13 @@
           figure
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/VZs-w3WZqwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+          figcaption Video. Cronogramas de trabajo
   
       Separador 
       #t_2_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
         h2 2.4 Conceptos, tipos y características 
   
-      p(data-aos="fade-down") Cuando se habla de un cronograma de trabajo se hace referencia a una herramienta para diseñar calendarios de trabajo, el cual permite obtener información de manera ordenada, donde se vean las funciones de cada uno y el tiempo que tiene para su desarrollo. 
+      p(data-aos="fade-down") Cuando se habla de un cronograma de trabajo, se hace referencia a una herramienta para diseñar calendarios de trabajo, el cual permite obtener información de manera ordenada, donde se vean las funciones de cada uno y el tiempo que tiene para su desarrollo. 
       p(data-aos="fade-down").mb-5 En la actualidad, existen varios tipos de cronograma con características particulares. Entre los más comunes y usados se pueden mencionar: 
       .bg22
         .row.justify-content-center.align-items-stretch       

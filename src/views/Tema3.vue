@@ -19,7 +19,7 @@
       .bg22
         .pt-5
         .titulo-sexto.color-acento-contenido.mb-4(data-aos='fade-right')
-          h5 Figura 1  
+          h5 Figura 1. 
           span Los 10 puntos clave del Sistema Kaizen
         .row.justify-content-center.align-items-end.pb-5           
           .col-lg-6

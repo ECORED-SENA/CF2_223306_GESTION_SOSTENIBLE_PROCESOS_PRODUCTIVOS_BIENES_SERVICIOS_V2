@@ -138,7 +138,7 @@
           .bg6.p-2
             h5(data-aos="fade-down").mb-0 Buena presentación personal
   
-      p(data-aos="fade-down").my-5 Por muy bueno que llegue a ser el producto si no se da a conocer y no se vende, de nada sirve haber invertido recursos y tiempo; es por eso que las habilidades comunicativas son importantes en un negocio, estas son:  
+      p(data-aos="fade-down").my-5 Por muy bueno que llegue a ser el producto, si no se da a conocer y no se vende, de nada sirve haber invertido recursos y tiempo; es por eso que las habilidades comunicativas son importantes en un negocio, estas son:  
       .row.justify-content-center.align-items-stretch       
         .col-lg-3.col-md-6.col-sm-6.my-3
           .row.justify-content-center.align-items-stretch       
@@ -212,6 +212,7 @@
           figure
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/mvkPyouQ-Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+          figcaption Video. La comunicación en procesos de promotoría 
               
       Separador 
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -219,7 +220,7 @@
   
       .row.justify-content-between.align-items-center.position-relative
         .col-lg-11.up
-          p(data-aos="fade-down") Plantear la estrategia de la promotoría implica contemplar no solo las prioridades u objetivos sino también articular los propósitos y mecanismos con los productos, la identidad de la marca, los nichos y realidades del mercado, las poblaciones homogéneas o heterogéneas a las cuales se dirige el propósito, precisar y disponer puntos de venta, entre otras. 
+          p(data-aos="fade-down") Plantear la estrategia de la promotoría implica contemplar no solo las prioridades u objetivos, sino también articular los propósitos y mecanismos con los productos, la identidad de la marca, los nichos y realidades del mercado, las poblaciones homogéneas o heterogéneas a las cuales se dirige el propósito, precisar y disponer puntos de venta, entre otras. 
   
           h5(data-aos="fade-down").mb-0 Para plantear una estrategia de promotoría se deben tener en cuenta algunos aspectos que ayudarán al promotor a llegar al objetivo final, estos son:       
         .col-lg-1.col-5.mb-lg-0.mb-3.d-none.d-lg-block 
@@ -396,7 +397,7 @@
               .bg17.p-2.h-100
                 .titutlo.rounded-pill.d-inline-block.p-3.bg-white.mt-3.d-flex.justify-content-center.mb-3.mx-5
                   h4.mb-0 Cuentas de control
-                p.p-3.pt-0.mb-0 Las cuentas de control son muy importantes ya que permiten llevar la contabilidad de los gastos que se van llevando día tras día y así no perder el control del presupuesto y se generen sobrecostos en la aplicación. 
+                p.p-3.pt-0.mb-0 Las cuentas de control son muy importantes, ya que permiten llevar la contabilidad de los gastos que se van llevando día tras día y así no perder el control del presupuesto y se generen sobrecostos en la aplicación. 
         .col-lg-6.my-3.bleft(data-aos="fade-right")  
           .row.justify-content-center.align-items-stretch
             .col-md-4.col-sm-12.p-0.my-3
