@@ -405,7 +405,7 @@ export default {
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },

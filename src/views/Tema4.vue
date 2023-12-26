@@ -206,8 +206,8 @@
     .row.justify-content-center.align-items-stretch.my-5 
       .col-lg-4.bg9.p-0.rad-top-right.imgmov
         .imgs-flotantes2.up
-          img.img-flotante2(data-aos="zoom-in")(src='@/assets/curso/temas/img127.png', alt='Imagen decorativa')      
-        img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img126.png', alt='')           
+          img.img-flotante2.d-lg-block.d-none(data-aos="zoom-in")(src='@/assets/curso/temas/img127.png', alt='Imagen decorativa')      
+        img.img-t.w-100(data-aos="zoom-in")(src='@/assets/curso/temas/img126.png', alt='')           
       .col-lg-6.bg9.p-3.ps-4
         img.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/img125.png', alt='')
         p(data-aos="fade-down").mb-0 Los indicadores de calidad son usados, comúnmente, para monitorear las actividades del programa. Entre más definido se encuentre el indicador, habrá menos errores y confusión para analizar la información. En ocasiones, los indicadores se ven limitados por la falta de disponibilidad de datos, es por eso que la información debe ser completa y coherente.
@@ -224,7 +224,7 @@
 
     .bg12.px-5.mb-3.py-3
       .row.justify-content-center.align-items-center.ps-5.mov
-        h5(data-aos="fade-down").mb-4 Existen técnicas de análisis de información simples como lo son los análisis de imagen, video y voz, pero también existen técnicas más complejas como:
+        h5(data-aos="fade-down").mb-4 Existen técnicas de análisis de información simples, como lo son los análisis de imagen, video y voz, pero también existen técnicas más complejas como:
         .col-lg-6.my-3
           .row.justify-content-center.align-items-start.ps-5           
             .col-lg-6.my-3        
@@ -275,7 +275,7 @@
               .imagen-absolute11
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/img3.svg', alt='')
             .col-lg-10
-              p(data-aos="fade-down").mb-0.p-3 #[b ¡Atención!] Las técnicas de análisis dependen de la información que se tenga, por tanto, su recolección se debe realizar mediante mecanismos como observación, entrevistas, encuestas y otras estrategias básicas, todas ellas necesarias para tal fin de recopilarla. Una información recolectada y expresada gráficamente facilita su comprensión y su análisis. La misma, se clasifica en explicativa y descriptiva.
+              p(data-aos="fade-down").mb-0.p-3 #[b ¡Atención!] Las técnicas de análisis dependen de la información que se tenga, por tanto, su recolección se debe realizar mediante mecanismos como observación, entrevistas, encuestas y otras estrategias básicas, todas ellas necesarias para tal fin de recopilarla. Una información recolectada y expresada gráficamente facilita su comprensión y su análisis. La misma se clasifica en explicativa y descriptiva.
 
 </template>
 <script>

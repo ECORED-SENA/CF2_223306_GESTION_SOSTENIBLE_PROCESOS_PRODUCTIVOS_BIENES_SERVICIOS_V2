@@ -187,6 +187,7 @@
             .col-lg-10
               p(data-aos="fade-down").mb-0.p-3 #[b ¡Recuerde!] El ciclo de mejora continua es de las herramientas más utilizadas por los sistemas de gestión, ayudando a las empresas a obtener mejoras en la productividad y en los precios de productos. La mejora continua tiene como objetivo el desarrollo de un compromiso con las metas de la empresa, buscando la forma de potenciar el proceso mismo.
 
+    h5(data-aos="fade-down").mb-5 En relación con el ciclo de mejora continua, se debe tener presente la definición básica de cada uno de sus elementos, que son:
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4(data-aos='fade-right')
@@ -209,57 +210,56 @@
         h4.mb-3 Verificar
         p Se mide el proceso que se lleva, observando qué desempeño tiene.              
 
-    h5(data-aos="fade-down").mb-5 En relación con el ciclo de mejora continua, se debe tener presente la definición básica de cada uno de sus elementos, que son:
 
-    .row.justify-content-center.mb-5(data-aos="zoom-in")
-      .col-lg-3.col-md-6.col-sm-8.my-3
-        .tarjeta.tarjeta-flip.color-primario.cardt(@mouseover="indicadorTarjetaFlip = false")
-          .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/106.svg')})`}")
-              .texto-flip.p-3
-                .titulo.d-inline-block.p-3.rounded-pill.bg-white
-                  h5.px-4.mb-0 Planear
-            .tarjeta-flip__contenido.p-4.p-xl-5
-              .py-5
-              .bgp.mb-3.mx-3.p-2
-                h5.px-4.mb-0.text-center Planear
-              p.mt-3 Se establecen objetivos en busca de obtener buenos resultados.
-      .col-lg-3.col-md-6.col-sm-8.my-3
-        .tarjeta.tarjeta-flip.color-primario.cardt(@mouseover="indicadorTarjetaFlip = false")
-          .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/107.svg')})`}")
-              .texto-flip.p-3
-                .titulo.d-inline-block.p-3.rounded-pill.bg-white
-                  h5.px-4.mb-0 Hacer
-            .tarjeta-flip__contenido.p-4.p-xl-5
-              .py-5
-              .bgp.mb-3.mx-3.p-2
-                h5.px-4.mb-0.text-center Hacer
-              p.mt-3 Se implementan aquellos procesos que permitan alcanzar los objetivos.
-      .col-lg-3.col-md-6.col-sm-8.my-3
-        .tarjeta.tarjeta-flip.color-primario.cardt(@mouseover="indicadorTarjetaFlip = false")
-          .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/108.svg')})`}")
-              .texto-flip.p-3
-                .titulo.d-inline-block.p-3.rounded-pill.bg-white
-                  h5.px-4.mb-0 Verificar
-            .tarjeta-flip__contenido.p-4.p-xl-5
-              .py-5
-              .bgp.mb-3.mx-3.p-2
-                h5.px-4.mb-0.text-center Verificar
-              p.mt-3 Se mide el proceso que se lleva, observando qué desempeño tiene.
-      .col-lg-3.col-md-6.col-sm-8.my-3
-        .tarjeta.tarjeta-flip.color-primario.cardt(@mouseover="indicadorTarjetaFlip = false")
-          .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/109.svg')})`}")
-              .texto-flip.p-3
-                .titulo.d-inline-block.p-3.rounded-pill.bg-white
-                  h5.px-4.mb-0 Actuar
-            .tarjeta-flip__contenido.p-4.p-xl-5
-              .py-5
-              .bgp.mb-3.mx-3.p-2
-                h5.px-4.mb-0.text-center Actuar
-              p.mt-3 Se toman las mejores acciones en busca de la mejora. 
+    //- .row.justify-content-center.mb-5(data-aos="zoom-in")
+    //-   .col-lg-3.col-md-6.col-sm-8.my-3
+    //-     .tarjeta.tarjeta-flip.color-primario.cardt(@mouseover="indicadorTarjetaFlip = false")
+    //-       .tarjeta-flip__contenedor
+    //-         .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/106.svg')})`}")
+    //-           .texto-flip.p-3
+    //-             .titulo.d-inline-block.p-3.rounded-pill.bg-white
+    //-               h5.px-4.mb-0 Planear
+    //-         .tarjeta-flip__contenido.p-4.p-xl-5
+    //-           .py-5
+    //-           .bgp.mb-3.mx-3.p-2
+    //-             h5.px-4.mb-0.text-center Planear
+    //-           p.mt-3 Se establecen objetivos en busca de obtener buenos resultados.
+    //-   .col-lg-3.col-md-6.col-sm-8.my-3
+    //-     .tarjeta.tarjeta-flip.color-primario.cardt(@mouseover="indicadorTarjetaFlip = false")
+    //-       .tarjeta-flip__contenedor
+    //-         .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/107.svg')})`}")
+    //-           .texto-flip.p-3
+    //-             .titulo.d-inline-block.p-3.rounded-pill.bg-white
+    //-               h5.px-4.mb-0 Hacer
+    //-         .tarjeta-flip__contenido.p-4.p-xl-5
+    //-           .py-5
+    //-           .bgp.mb-3.mx-3.p-2
+    //-             h5.px-4.mb-0.text-center Hacer
+    //-           p.mt-3 Se implementan aquellos procesos que permitan alcanzar los objetivos.
+    //-   .col-lg-3.col-md-6.col-sm-8.my-3
+    //-     .tarjeta.tarjeta-flip.color-primario.cardt(@mouseover="indicadorTarjetaFlip = false")
+    //-       .tarjeta-flip__contenedor
+    //-         .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/108.svg')})`}")
+    //-           .texto-flip.p-3
+    //-             .titulo.d-inline-block.p-3.rounded-pill.bg-white
+    //-               h5.px-4.mb-0 Verificar
+    //-         .tarjeta-flip__contenido.p-4.p-xl-5
+    //-           .py-5
+    //-           .bgp.mb-3.mx-3.p-2
+    //-             h5.px-4.mb-0.text-center Verificar
+    //-           p.mt-3 Se mide el proceso que se lleva, observando qué desempeño tiene.
+    //-   .col-lg-3.col-md-6.col-sm-8.my-3
+    //-     .tarjeta.tarjeta-flip.color-primario.cardt(@mouseover="indicadorTarjetaFlip = false")
+    //-       .tarjeta-flip__contenedor
+    //-         .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/109.svg')})`}")
+    //-           .texto-flip.p-3
+    //-             .titulo.d-inline-block.p-3.rounded-pill.bg-white
+    //-               h5.px-4.mb-0 Actuar
+    //-         .tarjeta-flip__contenido.p-4.p-xl-5
+    //-           .py-5
+    //-           .bgp.mb-3.mx-3.p-2
+    //-             h5.px-4.mb-0.text-center Actuar
+    //-           p.mt-3 Se toman las mejores acciones en busca de la mejora. 
 
     Separador 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")

@@ -377,7 +377,7 @@
         .col-lg-12(data-aos="fade-left")     
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/VZs-w3WZqwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/DxOdPL6UHzw?si=ArsblA5xPXIT7MrZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
           figcaption Video. Cronogramas de trabajo
   
       Separador 
@@ -497,7 +497,7 @@
           .col-7.bg26.px-0(data-aos="fade-left")
             .p-2
               p.ps-3(data-aos="fade-down").mb-0 Deberá ser formalizado y divulgado.
-      h5(data-aos="fade-down").mb-5 En relación con los conceptos, tipos y características de los cronogramas de trabajo se debe tener en cuenta las siguientes generalidades:
+      h5(data-aos="fade-down").mb-5 En relación con los conceptos, tipos y características de los cronogramas de trabajo, se debe tener en cuenta las siguientes generalidades:
   
       AcordionA(tipo="a" clase-tarjeta="tarjeta bg27")(data-aos="fade-right")
         .row.justify-content-center.align-items-start(titulo="Determinación de los elementos")

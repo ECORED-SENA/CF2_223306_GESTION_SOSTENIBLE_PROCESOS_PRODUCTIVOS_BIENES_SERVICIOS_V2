@@ -211,7 +211,7 @@
         .col-lg-12(data-aos="fade-left")     
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/mvkPyouQ-Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/Fx_WzY7mTW8?si=ssqjqmNqN2kFro2O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
           figcaption Video. La comunicación en procesos de promotoría 
               
       Separador 
@@ -369,7 +369,7 @@
               td Los medios de comunicación cumplen un rol fundamental en la divulgación, siendo los promotores de la transmisión de contenidos por todo el mundo.<br><br>Hay personas que se encuentran con residencia en otros países y logran hablar por medio de una videollamada con sus familiares que se encuentran en otra ciudad o país, esto es a lo que se refiere la divulgación de contenido de forma digital.                        
             tr
               td La divulgación sin comprobación 
-              td La divulgación es sacar a la luz una información que se tenía privada por razones de certificación; sin embargo, divulgar también se refiere a expandir un contenido hasta hacerlo masivo por medio de hablar en público, esto sin optar por la comprobación del mensaje. Por lo que, la divulgación si no se maneja con prudencia se puede convertir en rumores o falsedades. 
+              td La divulgación es sacar a la luz una información que se tenía privada por razones de certificación; sin embargo, divulgar también se refiere a expandir un contenido hasta hacerlo masivo por medio de hablar en público, esto sin optar por la comprobación del mensaje. Por lo que, la divulgación, si no se maneja con prudencia, se puede convertir en rumores o falsedades. 
             tr
               td Divulgación cotidiana 
               td En las conversaciones cotidianas se puede divulgar cuando se transmiten informaciones diversas en una misma charla. La divulgación es compartir un mensaje a una colectividad. Como sinónimo de compartir, de difundir y de expandir un mensaje.<br><br>La divulgación en la sociedad es propagar un contenido hasta hacerlo viral. 
